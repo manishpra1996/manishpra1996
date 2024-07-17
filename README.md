@@ -1,5 +1,3 @@
-Github-Profile
-
 ![logo](https://github.com/manishpra1996/manishpra1996/blob/main/Github%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Manish Prajapati</h1>
 <h3 align="center">To leverage my foundation skills in software development to contribute to innovative projects, while continuously learning and enhancing my technical expertise in development.</h3>
